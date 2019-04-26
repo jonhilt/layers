@@ -1,32 +1,37 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jon\\source\\repos\\Jon\\Talks\\LayersToVerticalSlices\\Layers\\Layers\\Layers.csproj": {}
+    "d:\\Code\\Talks\\layers\\Layers\\Layers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jon\\source\\repos\\Jon\\Talks\\LayersToVerticalSlices\\Layers\\Layers\\Layers.csproj": {
+    "d:\\Code\\Talks\\layers\\Layers\\Layers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jon\\source\\repos\\Jon\\Talks\\LayersToVerticalSlices\\Layers\\Layers\\Layers.csproj",
+        "projectUniqueName": "d:\\Code\\Talks\\layers\\Layers\\Layers.csproj",
         "projectName": "Layers",
-        "projectPath": "C:\\Users\\jon\\source\\repos\\Jon\\Talks\\LayersToVerticalSlices\\Layers\\Layers\\Layers.csproj",
-        "packagesPath": "C:\\Users\\jon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jon\\source\\repos\\Jon\\Talks\\LayersToVerticalSlices\\Layers\\Layers\\obj\\",
+        "projectPath": "d:\\Code\\Talks\\layers\\Layers\\Layers.csproj",
+        "packagesPath": "C:\\Users\\Jon\\.nuget\\packages\\",
+        "outputPath": "d:\\Code\\Talks\\layers\\Layers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\ProgramData\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\jon\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Jon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore-tooling/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-entityframeworkcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-extensions/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-windowsdesktop/index.json": {}
         },
         "frameworks": {
           "netcoreapp2.2": {
