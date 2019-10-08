@@ -9,8 +9,9 @@ using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using NeoFindr.Controllers;
 
-namespace Layers
+namespace NeoFindr
 {
     public class Startup
     {
@@ -31,6 +32,7 @@ namespace Layers
                 options.MinimumSameSitePolicy = SameSiteMode.None;
             });
 
+            services.AddScoped<PersonService>();
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
         }

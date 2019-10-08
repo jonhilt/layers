@@ -4,9 +4,9 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using Layers.Models;
+using NeoFindr.Models;
 
-namespace Layers.Controllers
+namespace NeoFindr.Controllers
 {
     public class HomeController : Controller
     {

@@ -18,6 +18,23 @@ html {
   }
 }
 
+body {
+  background-color: black;
+  color: white;
+}
+
+table, th, td {
+  color: #19a816;
+}
+
+nav.navbar {
+  background-color: #3e3e3e !important;
+}
+
+nav.navbar a.navbar-brand {
+  color: white !important;
+}
+
 .border-top {
   border-top: 1px solid #e5e5e5;
 }

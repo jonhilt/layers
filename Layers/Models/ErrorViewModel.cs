@@ -1,6 +1,6 @@
 using System;
 
-namespace Layers.Models
+namespace NeoFindr.Models
 {
     public class ErrorViewModel
     {

@@ -12142,11 +12142,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\Code\\Talks\\layers\\Layers\\Layers.csproj",
-      "projectName": "Layers",
-      "projectPath": "d:\\Code\\Talks\\layers\\Layers\\Layers.csproj",
+      "projectUniqueName": "D:\\Code\\Talks\\layers\\Layers\\Layers.csproj",
+      "projectName": "NeoFindR",
+      "projectPath": "D:\\Code\\Talks\\layers\\Layers\\Layers.csproj",
       "packagesPath": "C:\\Users\\Jon\\.nuget\\packages\\",
-      "outputPath": "d:\\Code\\Talks\\layers\\Layers\\obj\\",
+      "outputPath": "D:\\Code\\Talks\\layers\\Layers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12160,13 +12160,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore-tooling/index.json": {},
-        "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore/index.json": {},
-        "https://dotnetfeed.blob.core.windows.net/aspnet-entityframeworkcore/index.json": {},
-        "https://dotnetfeed.blob.core.windows.net/aspnet-extensions/index.json": {},
-        "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {},
-        "https://dotnetfeed.blob.core.windows.net/dotnet-windowsdesktop/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.2": {
@@ -12201,7 +12195,12 @@
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
         "warn": true
