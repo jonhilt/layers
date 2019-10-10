@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="28aa794d-7145-478b-b10f-9ea1e39bcf2b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Layers/bin/Debug/netcoreapp2.2/NeoFindR.Views.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Layers/bin/Debug/netcoreapp2.2/NeoFindR.Views.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Layers/bin/Debug/netcoreapp2.2/NeoFindR.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Layers/bin/Debug/netcoreapp2.2/NeoFindR.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Layers/bin/Debug/netcoreapp2.2/NeoFindR.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Layers/bin/Debug/netcoreapp2.2/NeoFindR.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Layers/bin/Debug/netcoreapp2.2/NeoFindR.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Layers/bin/Debug/netcoreapp2.2/Properties/launchSettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Layers/bin/Debug/netcoreapp2.2/appsettings.Development.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Layers/bin/Debug/netcoreapp2.2/appsettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Layers/obj/Debug/netcoreapp2.2/NeoFindR.TagHelpers.input.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Layers/obj/Debug/netcoreapp2.2/NeoFindR.TagHelpers.output.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Layers/obj/Debug/netcoreapp2.2/NeoFindR.Views.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Layers/obj/Debug/netcoreapp2.2/NeoFindR.Views.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Layers/obj/Debug/netcoreapp2.2/NeoFindR.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Layers/obj/Debug/netcoreapp2.2/NeoFindR.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Layers/obj/Debug/netcoreapp2.2/Razor/Views/Person/List.cshtml.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Layers/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Layers/wwwroot/images/home.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Features/Home/HomeController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Features/Home/Index.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Features/Home/Privacy.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Features/Inhabitants/InhabitantsController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Features/Inhabitants/List.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Features/Shared/Error.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Features/Shared/ErrorViewModel.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Features/Shared/_CookieConsentPartial.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Features/Shared/_Layout.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Features/Shared/_ValidationScriptsPartial.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Features/_ViewImports.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Features/_ViewStart.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Properties/launchSettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Startup.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appsettings.Development.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appsettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.2/NeoFindR.Slices.Views.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.2/NeoFindR.Slices.Views.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.2/NeoFindR.Slices.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.2/NeoFindR.Slices.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.2/NeoFindR.Slices.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.2/NeoFindR.Slices.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.2/NeoFindR.Slices.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.2/NeoFindR.Views.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.2/NeoFindR.Views.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.2/NeoFindR.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.2/NeoFindR.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.2/NeoFindR.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.2/NeoFindR.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.2/NeoFindR.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.2/Properties/launchSettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.2/appsettings.Development.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/netcoreapp2.2/appsettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wwwroot/css/site.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wwwroot/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wwwroot/images/home.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wwwroot/js/site.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wwwroot/lib/bootstrap/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wwwroot/lib/bootstrap/dist/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wwwroot/lib/bootstrap/dist/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wwwroot/lib/jquery-validation/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wwwroot/lib/jquery-validation/dist/additional-methods.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wwwroot/lib/jquery-validation/dist/additional-methods.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wwwroot/lib/jquery-validation/dist/jquery.validate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wwwroot/lib/jquery/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wwwroot/lib/jquery/dist/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wwwroot/lib/jquery/dist/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wwwroot/lib/jquery/dist/jquery.min.map" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Slices.csproj">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/.idea.Slices.dir/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/.idea.Slices.dir/.idea/indexLayout.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="300" />
+    <option name="y" value="66" />
+    <option name="width" value="1294" />
+    <option name="height" value="727" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="Slices" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="28aa794d-7145-478b-b10f-9ea1e39bcf2b" name="Default Changelist" comment="" />
+      <created>1570564313717</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570564313717</updated>
+      <workItem from="1570564315240" duration="68000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="68000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="300" y="66" width="1294" height="727" extended-state="0" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.37558687" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="bottom" id="Docker" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Performance Profiler" />
+      <window_info anchor="bottom" id="Build" visible="true" weight="0.32978722" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Slices.csproj">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>

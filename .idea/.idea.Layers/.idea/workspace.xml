@@ -1,0 +1,636 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3f3f4956-beb7-4e50-a170-f886ef86070f" name="Default Changelist" comment="slices">
+      <change afterPath="$PROJECT_DIR$/Layers/bin/Debug/netcoreapp2.2/NeoFindR.Views.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Layers/bin/Debug/netcoreapp2.2/NeoFindR.Views.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Layers/bin/Debug/netcoreapp2.2/NeoFindR.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Layers/bin/Debug/netcoreapp2.2/NeoFindR.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Layers/bin/Debug/netcoreapp2.2/NeoFindR.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Layers/bin/Debug/netcoreapp2.2/NeoFindR.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Layers/bin/Debug/netcoreapp2.2/NeoFindR.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Layers/bin/Debug/netcoreapp2.2/Properties/launchSettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Layers/bin/Debug/netcoreapp2.2/appsettings.Development.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Layers/bin/Debug/netcoreapp2.2/appsettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Layers/obj/Debug/netcoreapp2.2/NeoFindR.TagHelpers.input.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Layers/obj/Debug/netcoreapp2.2/NeoFindR.TagHelpers.output.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Layers/obj/Debug/netcoreapp2.2/NeoFindR.Views.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Layers/obj/Debug/netcoreapp2.2/NeoFindR.Views.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Layers/obj/Debug/netcoreapp2.2/NeoFindR.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Layers/obj/Debug/netcoreapp2.2/NeoFindR.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Layers/obj/Debug/netcoreapp2.2/Razor/Views/Person/List.cshtml.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Layers/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Layers/wwwroot/images/home.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/Features/Home/HomeController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/Features/Home/Index.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/Features/Home/Privacy.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/Features/Inhabitants/InhabitantsController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/Features/Inhabitants/List.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/Features/Shared/Error.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/Features/Shared/ErrorViewModel.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/Features/Shared/_CookieConsentPartial.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/Features/Shared/_Layout.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/Features/Shared/_ValidationScriptsPartial.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/Features/_ViewImports.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/Features/_ViewStart.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/Properties/launchSettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/Slices.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/Startup.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/appsettings.Development.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/appsettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/bin/Debug/netcoreapp2.2/NeoFindR.Slices.Views.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/bin/Debug/netcoreapp2.2/NeoFindR.Slices.Views.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/bin/Debug/netcoreapp2.2/NeoFindR.Slices.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/bin/Debug/netcoreapp2.2/NeoFindR.Slices.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/bin/Debug/netcoreapp2.2/NeoFindR.Slices.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/bin/Debug/netcoreapp2.2/NeoFindR.Slices.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/bin/Debug/netcoreapp2.2/NeoFindR.Slices.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/bin/Debug/netcoreapp2.2/NeoFindR.Views.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/bin/Debug/netcoreapp2.2/NeoFindR.Views.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/bin/Debug/netcoreapp2.2/NeoFindR.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/bin/Debug/netcoreapp2.2/NeoFindR.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/bin/Debug/netcoreapp2.2/NeoFindR.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/bin/Debug/netcoreapp2.2/NeoFindR.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/bin/Debug/netcoreapp2.2/NeoFindR.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/bin/Debug/netcoreapp2.2/Properties/launchSettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/bin/Debug/netcoreapp2.2/appsettings.Development.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/bin/Debug/netcoreapp2.2/appsettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/wwwroot/css/site.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/wwwroot/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/wwwroot/images/home.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/wwwroot/js/site.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/wwwroot/lib/bootstrap/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/wwwroot/lib/bootstrap/dist/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/wwwroot/lib/bootstrap/dist/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/wwwroot/lib/jquery-validation/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/wwwroot/lib/jquery-validation/dist/additional-methods.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/wwwroot/lib/jquery-validation/dist/additional-methods.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/wwwroot/lib/jquery-validation/dist/jquery.validate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/wwwroot/lib/jquery/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/wwwroot/lib/jquery/dist/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/wwwroot/lib/jquery/dist/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slices/wwwroot/lib/jquery/dist/jquery.min.map" afterDir="false" />
+    </list>
+    <ignored path="Slices/obj/Debug/netcoreapp2.2/Razor/Features/Home/Index.cshtml.g.cs" />
+    <ignored path="Slices/obj/Debug/netcoreapp2.2/Razor/Features/Home/Privacy.cshtml.g.cs" />
+    <ignored path="Slices/obj/Debug/netcoreapp2.2/Razor/Features/Inhabitants/List.cshtml.g.cs" />
+    <ignored path="Slices/obj/Debug/netcoreapp2.2/Razor/Features/Shared/_CookieConsentPartial.cshtml.g.cs" />
+    <ignored path="Slices/obj/Debug/netcoreapp2.2/Razor/Features/Shared/_Layout.cshtml.g.cs" />
+    <ignored path="Slices/obj/Debug/netcoreapp2.2/Razor/Features/Shared/_ValidationScriptsPartial.cshtml.g.cs" />
+    <ignored path="Slices/obj/Debug/netcoreapp2.2/Razor/Features/Shared/Error.cshtml.g.cs" />
+    <ignored path="Slices/obj/Debug/netcoreapp2.2/Razor/Features/_ViewImports.cshtml.g.cs" />
+    <ignored path="Slices/obj/Debug/netcoreapp2.2/Razor/Features/_ViewStart.cshtml.g.cs" />
+    <ignored path="Slices/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.cshtml.g.cs" />
+    <ignored path="Slices/obj/Debug/netcoreapp2.2/Razor/Views/Home/Privacy.cshtml.g.cs" />
+    <ignored path="Slices/obj/Debug/netcoreapp2.2/Razor/Views/Person/List.cshtml.g.cs" />
+    <ignored path="Slices/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.cshtml.g.cs" />
+    <ignored path="Slices/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.cshtml.g.cs" />
+    <ignored path="Slices/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs" />
+    <ignored path="Slices/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Error.cshtml.g.cs" />
+    <ignored path="Slices/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.cshtml.g.cs" />
+    <ignored path="Slices/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.cshtml.g.cs" />
+    <ignored path="Slices/obj/Debug/netcoreapp2.2/Layers.AssemblyInfo.cs" />
+    <ignored path="Slices/obj/Debug/netcoreapp2.2/Layers.AssemblyInfoInputs.cache" />
+    <ignored path="Slices/obj/Debug/netcoreapp2.2/Layers.assets.cache" />
+    <ignored path="Slices/obj/Debug/netcoreapp2.2/Layers.csproj.CopyComplete" />
+    <ignored path="Slices/obj/Debug/netcoreapp2.2/Layers.csproj.FileListAbsolute.txt" />
+    <ignored path="Slices/obj/Debug/netcoreapp2.2/Layers.csprojAssemblyReference.cache" />
+    <ignored path="Slices/obj/Debug/netcoreapp2.2/Layers.RazorAssemblyInfo.cache" />
+    <ignored path="Slices/obj/Debug/netcoreapp2.2/Layers.RazorAssemblyInfo.cs" />
+    <ignored path="Slices/obj/Debug/netcoreapp2.2/Layers.RazorCoreGenerate.cache" />
+    <ignored path="Slices/obj/Debug/netcoreapp2.2/Layers.RazorTargetAssemblyInfo.cache" />
+    <ignored path="Slices/obj/Debug/netcoreapp2.2/Layers.RazorTargetAssemblyInfo.cs" />
+    <ignored path="Slices/obj/Debug/netcoreapp2.2/Layers.Views.dll" />
+    <ignored path="Slices/obj/Debug/netcoreapp2.2/NeoFindR.dll" />
+    <ignored path="Slices/obj/Debug/netcoreapp2.2/NeoFindR.pdb" />
+    <ignored path="Slices/obj/Debug/netcoreapp2.2/NeoFindR.Slices.dll" />
+    <ignored path="Slices/obj/Debug/netcoreapp2.2/NeoFindR.Slices.pdb" />
+    <ignored path="Slices/obj/Debug/netcoreapp2.2/NeoFindR.Slices.TagHelpers.input.cache" />
+    <ignored path="Slices/obj/Debug/netcoreapp2.2/NeoFindR.Slices.TagHelpers.output.cache" />
+    <ignored path="Slices/obj/Debug/netcoreapp2.2/NeoFindR.Slices.Views.dll" />
+    <ignored path="Slices/obj/Debug/netcoreapp2.2/NeoFindR.Slices.Views.pdb" />
+    <ignored path="Slices/obj/Debug/netcoreapp2.2/NeoFindR.TagHelpers.input.cache" />
+    <ignored path="Slices/obj/Debug/netcoreapp2.2/NeoFindR.TagHelpers.output.cache" />
+    <ignored path="Slices/obj/Debug/netcoreapp2.2/NeoFindR.Views.dll" />
+    <ignored path="Slices/obj/Debug/netcoreapp2.2/NeoFindR.Views.pdb" />
+    <ignored path="Slices/obj/Debug/netcoreapp2.2/project.razor.json" />
+    <ignored path="Slices/obj/Debug/netcoreapp2.2/Slices.AssemblyInfo.cs" />
+    <ignored path="Slices/obj/Debug/netcoreapp2.2/Slices.AssemblyInfoInputs.cache" />
+    <ignored path="Slices/obj/Debug/netcoreapp2.2/Slices.assets.cache" />
+    <ignored path="Slices/obj/Debug/netcoreapp2.2/Slices.csproj.CopyComplete" />
+    <ignored path="Slices/obj/Debug/netcoreapp2.2/Slices.csproj.FileListAbsolute.txt" />
+    <ignored path="Slices/obj/Debug/netcoreapp2.2/Slices.csprojAssemblyReference.cache" />
+    <ignored path="Slices/obj/Debug/netcoreapp2.2/Slices.RazorAssemblyInfo.cache" />
+    <ignored path="Slices/obj/Debug/netcoreapp2.2/Slices.RazorAssemblyInfo.cs" />
+    <ignored path="Slices/obj/Debug/netcoreapp2.2/Slices.RazorCoreGenerate.cache" />
+    <ignored path="Slices/obj/Debug/netcoreapp2.2/Slices.RazorTargetAssemblyInfo.cache" />
+    <ignored path="Slices/obj/Debug/netcoreapp2.2/Slices.RazorTargetAssemblyInfo.cs" />
+    <ignored path="Slices/obj/Debug/netcoreapp2.2/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+    <ignored path="Slices/obj/Debug/netcoreapp2.2/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+    <ignored path="Slices/obj/Debug/netcoreapp2.2/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+    <ignored path="Slices/obj/Layers.csproj.nuget.cache" />
+    <ignored path="Slices/obj/Layers.csproj.nuget.dgspec.json" />
+    <ignored path="Slices/obj/Layers.csproj.nuget.g.props" />
+    <ignored path="Slices/obj/Layers.csproj.nuget.g.targets" />
+    <ignored path="Slices/obj/project.assets.json" />
+    <ignored path="Slices/obj/project.packagespec.json" />
+    <ignored path="Slices/obj/Slices.csproj.nuget.cache" />
+    <ignored path="Slices/obj/Slices.csproj.nuget.g.props" />
+    <ignored path="Slices/obj/Slices.csproj.nuget.g.targets" />
+    <ignored path="Slices/obj/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Layers/Views/Home/Privacy.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="174">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+              <folding>
+                <marker date="1570391196658" expanded="true" signature="0:46" ph="@..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Slices/Features/Home/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Slices/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Layers/Controllers/PersonController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Slices/Features/Inhabitants/InhabitantsController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Layers/Views/Home/Privacy.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Layers/Views/Home/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Slices/Features/Inhabitants/List.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/.idea/config/applicationhost.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Layers/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Slices/Features/_ViewStart.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Slices/obj/Debug/netcoreapp2.2/Razor/Features/Home/Index.cshtml.g.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Layers/Views/Person/List.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Layers/Views/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Slices/Features/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Layers/Pages/User/List.cshtml" />
+        <option value="$PROJECT_DIR$/Layers/Models/User.cs" />
+        <option value="$PROJECT_DIR$/Layers/Repositories/IUserRepository.cs" />
+        <option value="$PROJECT_DIR$/Layers/Views/User/Search.cshtml" />
+        <option value="$PROJECT_DIR$/Layers/Views/User/List.cshtml" />
+        <option value="$PROJECT_DIR$/Layers/Views/Home/Privacy.cshtml" />
+        <option value="$PROJECT_DIR$/Layers/Views/Home/Index.cshtml" />
+        <option value="$PROJECT_DIR$/Layers/Views/Shared/_Layout.cshtml" />
+        <option value="$PROJECT_DIR$/Layers/wwwroot/css/site.css" />
+        <option value="$PROJECT_DIR$/Layers/Services/IUserService.cs" />
+        <option value="$PROJECT_DIR$/Layers/Controllers/UserController.cs" />
+        <option value="$PROJECT_DIR$/Layers/Views/Person/List.cshtml" />
+        <option value="$PROJECT_DIR$/Layers/Startup.cs" />
+        <option value="$PROJECT_DIR$/Layers/Controllers/PersonController.cs" />
+        <option value="$PROJECT_DIR$/Slices/Features/Inhabitants/InhabitantsController.cs" />
+        <option value="$PROJECT_DIR$/Slices/Startup.cs" />
+        <option value="$PROJECT_DIR$/Slices/Features/Inhabitants/List.cshtml" />
+        <option value="$PROJECT_DIR$/Slices/Features/Home/HomeController.cs" />
+        <option value="$PROJECT_DIR$/Slices/Pages/Home/Error.cshtml" />
+        <option value="$PROJECT_DIR$/Slices/Features/_ViewStart.cshtml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/.idea.Layers/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/.idea.Layers/.idea/indexLayout.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="300" />
+    <option name="y" value="66" />
+    <option name="width" value="1294" />
+    <option name="height" value="727" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Layers" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Layers" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Slices" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="TF_FMT" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Slices/Layers.csproj" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="debugger.dataViews" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Launch Settings Profile.Slices: IIS Express">
+    <configuration name="Layers" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/Layers/Layers.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v2.2" />
+      <option name="LAUNCH_PROFILE_NAME" value="Layers" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Layers: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/Layers/Layers.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v2.2" />
+      <option name="LAUNCH_PROFILE_NAME" value="IIS Express" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Slices: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile" temporary="true">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/Slices/Slices.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v2.2" />
+      <option name="LAUNCH_PROFILE_NAME" value="IIS Express" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue=".NET Launch Settings Profile.Slices: IIS Express" />
+        <item itemvalue=".NET Launch Settings Profile.Slices: IIS Express" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f3f4956-beb7-4e50-a170-f886ef86070f" name="Default Changelist" comment="" />
+      <created>1570390219525</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570390219525</updated>
+      <workItem from="1570390220792" duration="4881000" />
+      <workItem from="1570563261904" duration="1049000" />
+    </task>
+    <task id="LOCAL-00001" summary="slices">
+      <created>1570564046330</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1570564046330</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5930000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="300" y="66" width="1294" height="727" extended-state="0" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.3967136" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" />
+      <window_info anchor="bottom" id="Unit Tests" order="1" />
+      <window_info anchor="bottom" id="REST Client" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="6" />
+      <window_info anchor="bottom" id="Performance Profiler" order="7" />
+      <window_info anchor="bottom" id="NuGet" order="8" weight="0.19103523" />
+      <window_info anchor="bottom" id="Message" order="9" />
+      <window_info anchor="bottom" id="Find" order="10" />
+      <window_info anchor="bottom" id="Run" order="11" weight="0.36072573" />
+      <window_info anchor="bottom" id="Debug" order="12" weight="0.226254" />
+      <window_info anchor="bottom" id="Cvs" order="13" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="14" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="15" />
+      <window_info anchor="bottom" id="Change Signature" order="16" side_tool="true" weight="0.32978722" />
+      <window_info anchor="bottom" id="Build" order="17" weight="0.3276414" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="1" />
+      <window_info anchor="right" id="Errors In Solution" order="2" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.32125732" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" />
+      <window_info anchor="bottom" id="Unit Tests" order="1" />
+      <window_info anchor="bottom" id="REST Client" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="6" />
+      <window_info anchor="bottom" id="Performance Profiler" order="7" />
+      <window_info anchor="bottom" id="NuGet" order="8" weight="0.19103523" />
+      <window_info anchor="bottom" id="Message" order="9" />
+      <window_info anchor="bottom" id="Find" order="10" />
+      <window_info anchor="bottom" id="Run" order="11" weight="0.36072573" />
+      <window_info anchor="bottom" id="Debug" order="12" weight="0.226254" />
+      <window_info anchor="bottom" id="Cvs" order="13" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="14" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="15" />
+      <window_info anchor="bottom" id="Change Signature" order="16" side_tool="true" weight="0.32978722" />
+      <window_info anchor="bottom" id="Build" order="17" weight="0.3276414" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="1" />
+      <window_info anchor="right" id="Errors In Solution" order="2" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="slices" />
+    <option name="LAST_COMMIT_MESSAGE" value="slices" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Layers/Repositories/IUserRepository.cs" />
+    <entry file="file://$PROJECT_DIR$/Layers/Models/User.cs" />
+    <entry file="file://$PROJECT_DIR$/Layers/Views/User/Search.cshtml" />
+    <entry file="file://$PROJECT_DIR$/Layers/wwwroot/images/home.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Layers/Services/IUserService.cs" />
+    <entry file="file://$PROJECT_DIR$/Layers/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+          <folding>
+            <marker date="1570392798883" expanded="true" signature="6:391" ph="..." />
+            <marker date="1570392798883" expanded="true" signature="411:2207" ph="{...}" />
+            <marker date="1570392798883" expanded="true" signature="438:2205" ph="{...}" />
+            <marker date="1570392798883" expanded="true" signature="497:560" ph="{...}" />
+            <marker date="1570392798883" expanded="true" signature="783:1285" ph="{...}" />
+            <marker date="1570392798883" expanded="true" signature="869:1133" ph="{...}" />
+            <marker date="1570392798883" expanded="true" signature="1473:2199" ph="{...}" />
+            <marker date="1570392798883" expanded="true" signature="1520:1597" ph="{...}" />
+            <marker date="1570392798883" expanded="true" signature="1614:1873" ph="{...}" />
+            <marker date="1570392798883" expanded="true" signature="2029:2187" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Layers/Views/Person/List.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="19" column="12" lean-forward="true" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+          <folding>
+            <marker date="1570392731490" expanded="true" signature="69:126" ph="@..." />
+            <marker date="1570392731490" expanded="true" signature="337:563" ph="@..." />
+            <marker date="1570392731490" expanded="true" signature="367:563" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Slices/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <marker date="1570563838748" expanded="false" signature="6:363" ph="..." />
+            <marker date="1570563838748" expanded="true" signature="383:2183" ph="{...}" />
+            <marker date="1570563838748" expanded="true" signature="410:2181" ph="{...}" />
+            <marker date="1570563838748" expanded="true" signature="469:532" ph="{...}" />
+            <marker date="1570563838748" expanded="true" signature="755:1261" ph="{...}" />
+            <marker date="1570563838748" expanded="true" signature="841:1105" ph="{...}" />
+            <marker date="1570563838748" expanded="true" signature="1449:2175" ph="{...}" />
+            <marker date="1570563838748" expanded="true" signature="1496:1573" ph="{...}" />
+            <marker date="1570563838748" expanded="true" signature="1590:1849" ph="{...}" />
+            <marker date="1570563838748" expanded="true" signature="2005:2163" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Slices/Pages/Home/Error.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="37" selection-start-column="7" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Slices/Features/Shared/_Layout.cshtml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Slices/Features/_ViewStart.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="21" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="21" />
+          <folding>
+            <marker date="1556271027061" expanded="true" signature="0:28" ph="@..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Layers/Controllers/PersonController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1769">
+          <caret line="61" column="37" selection-start-line="61" selection-start-column="37" selection-end-line="61" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#109#0" expanded="true" />
+            <marker date="1570394621335" expanded="true" signature="190:778" ph="{...}" />
+            <marker date="1570394621335" expanded="true" signature="312:380" ph="{...}" />
+            <marker date="1570394621335" expanded="true" signature="455:564" ph="{...}" />
+            <marker date="1570394621335" expanded="true" signature="650:772" ph="{...}" />
+            <marker date="1570394621335" expanded="true" signature="810:1258" ph="{...}" />
+            <marker date="1570394621335" expanded="true" signature="932:1006" ph="{...}" />
+            <marker date="1570394621335" expanded="true" signature="1053:1120" ph="{...}" />
+            <marker date="1570394621335" expanded="true" signature="1175:1252" ph="{...}" />
+            <marker date="1570394621335" expanded="true" signature="1293:1911" ph="{...}" />
+            <marker date="1570394621335" expanded="true" signature="1359:1905" ph="{...}" />
+            <marker date="1570394621335" expanded="true" signature="1420:1487" ph="{...}" />
+            <marker date="1570394621335" expanded="true" signature="1504:1570" ph="{...}" />
+            <marker date="1570394621335" expanded="true" signature="1632:1894" ph="{...}" />
+            <marker date="1570394621335" expanded="true" signature="1677:1880" ph="{...}" />
+            <marker date="1570394621335" expanded="true" signature="1936:2135" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Slices/Features/Inhabitants/InhabitantsController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+          <folding>
+            <marker date="1570563708545" expanded="true" signature="151:276" ph="{...}" />
+            <marker date="1570563708545" expanded="true" signature="223:270" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Slices/Features/Inhabitants/List.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+          <folding>
+            <marker date="1570563770849" expanded="true" signature="0:751" ph="@*...*@" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Slices/Features/Home/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="725">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <marker date="1570563839585" expanded="false" signature="6:80" ph="..." />
+            <marker date="1570563839585" expanded="true" signature="114:610" ph="{...}" />
+            <marker date="1570563839585" expanded="true" signature="161:608" ph="{...}" />
+            <marker date="1570563839585" expanded="true" signature="204:251" ph="{...}" />
+            <marker date="1570563839585" expanded="true" signature="291:338" ph="{...}" />
+            <marker date="1570563839585" expanded="true" signature="469:602" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Layers/Views/Home/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="9" column="53" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="53" />
+          <folding>
+            <marker date="1570392122335" expanded="true" signature="0:41" ph="@..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Layers/wwwroot/css/site.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1073">
+          <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Layers/Views/Shared/_Layout.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="23" column="101" selection-start-line="23" selection-start-column="101" selection-end-line="23" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Layers/Views/Home/Privacy.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <marker date="1570391196658" expanded="true" signature="0:46" ph="@..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,26 @@
+ @model NeoFindR.Features.Agents.View.Model
+ 
+ @{ 
+     ViewBag.Title = "title"; 
+     Layout = "_Layout"; 
+ } 
+
+ <table class="table table-striped">
+     <thead> 
+     <tr> 
+         <th>Name</th> 
+         <th>Last Rebooted</th> 
+         <th>Last Crashed</th> 
+     </tr> 
+     </thead>
+     <tbody> 
+     @foreach (var agent in Model.Agents) 
+     { 
+         <tr> 
+             <td>@agent.Name</td> 
+             <td>@agent.LastRebooted</td> 
+             <td>@agent.LastCrashed</td> 
+         </tr> 
+     } 
+     </tbody>
+ </table>
