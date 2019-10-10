@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bdd742c7-2ff7-4888-896b-92803e129a84" name="Default Changelist" comment="" />
+    <list default="true" id="bdd742c7-2ff7-4888-896b-92803e129a84" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Slices.sln" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,130 +25,7 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../NeoFindR.Specs/Inhabitants/Destroy.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
-              <folding>
-                <marker date="1570706953093" expanded="true" signature="6:102" ph="..." />
-                <marker date="1570706953093" expanded="true" signature="140:726" ph="{...}" />
-                <marker date="1570706953093" expanded="true" signature="208:724" ph="{...}" />
-                <marker date="1570706953093" expanded="true" signature="288:718" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Features/Agents/AgentController.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="551">
-              <caret line="29" selection-start-line="29" selection-end-line="29" />
-              <folding>
-                <marker date="1570721804856" expanded="true" signature="6:76" ph="..." />
-                <marker date="1570721804856" expanded="true" signature="112:716" ph="{...}" />
-                <marker date="1570721804856" expanded="true" signature="160:714" ph="{...}" />
-                <marker date="1570721804856" expanded="true" signature="264:318" ph="{...}" />
-                <marker date="1570721804856" expanded="true" signature="409:525" ph="{...}" />
-                <marker date="1570721804856" expanded="true" signature="592:708" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Domain/Agent.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="36" lean-forward="true" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
-              <folding>
-                <marker date="1570721934744" expanded="true" signature="40:561" ph="{...}" />
-                <marker date="1570721934744" expanded="true" signature="74:514" ph="{...}" />
-                <marker date="1570721934744" expanded="true" signature="346:508" ph="{...}" />
-                <marker date="1570721934744" expanded="true" signature="547:559" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Features/Agents/View.cshtml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-              <folding>
-                <marker date="1570721891655" expanded="true" signature="47:110" ph="@..." />
-                <marker date="1570721891655" expanded="true" signature="309:512" ph="@..." />
-                <marker date="1570721891655" expanded="true" signature="346:512" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Features/Home/Index.cshtml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="65" selection-start-line="7" selection-start-column="65" selection-end-line="7" selection-end-column="65" />
-              <folding>
-                <marker date="1570722071000" expanded="true" signature="0:41" ph="@..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Features/Agents/View.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="816">
-              <caret line="47" column="32" selection-start-line="47" selection-start-column="32" selection-end-line="47" selection-end-column="32" />
-              <folding>
-                <marker date="1570721826823" expanded="true" signature="6:203" ph="..." />
-                <marker date="1570721826823" expanded="true" signature="239:1447" ph="{...}" />
-                <marker date="1570721826823" expanded="true" signature="263:1445" ph="{...}" />
-                <marker date="1570721826823" expanded="true" signature="314:334" ph="{...}" />
-                <marker date="1570721826823" expanded="true" signature="362:660" ph="{...}" />
-                <marker date="1570721826823" expanded="true" signature="456:650" ph="{...}" />
-                <marker date="1570721826823" expanded="true" signature="727:1439" ph="{...}" />
-                <marker date="1570721826823" expanded="true" signature="846:912" ph="{...}" />
-                <marker date="1570721826823" expanded="true" signature="1009:1429" ph="{...}" />
-                <marker date="1570721826823" expanded="true" signature="1073:1414" ph="{...}" />
-                <marker date="1570721826823" expanded="true" signature="1176:1345" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Infrastructure/IEntity.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="699">
-              <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
-              <folding>
-                <marker date="1570722193352" expanded="true" signature="6:62" ph="..." />
-                <marker date="1570722193352" expanded="true" signature="89:1653" ph="{...}" />
-                <marker date="1570722193352" expanded="true" signature="120:183" ph="{...}" />
-                <marker date="1570722193352" expanded="true" signature="227:270" ph="{...}" />
-                <marker date="1570722193352" expanded="true" signature="335:1651" ph="{...}" />
-                <marker date="1570722193352" expanded="true" signature="535:591" ph="{...}" />
-                <marker date="1570722193352" expanded="true" signature="663:683" ph="{...}" />
-                <marker date="1570722193352" expanded="true" signature="732:859" ph="{...}" />
-                <marker date="1570722193352" expanded="true" signature="792:849" ph="{...}" />
-                <marker date="1570722193352" expanded="true" signature="893:1117" ph="{...}" />
-                <marker date="1570722193352" expanded="true" signature="952:1080" ph="{...}" />
-                <marker date="1570722193352" expanded="true" signature="1164:1318" ph="{...}" />
-                <marker date="1570722193352" expanded="true" signature="1205:1263" ph="{...}" />
-                <marker date="1570722193352" expanded="true" signature="1369:1545" ph="{...}" />
-                <marker date="1570722193352" expanded="true" signature="1424:1496" ph="{...}" />
-                <marker date="1570722193352" expanded="true" signature="1588:1645" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -160,7 +39,7 @@
     <setting file="file://$PROJECT_DIR$/../NeoFindR.Specs/SliceFixture.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Features/Home/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../NeoFindR.Specs/IntegrationTestBase.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../NeoFindR.Specs/Inhabitants/Destroy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../NeoFindR.Specs/Inhabitants/Destroy.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Infrastructure/IEntity.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Features/Agents/View.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Startup.cs" root0="FORCE_HIGHLIGHTING" />
@@ -177,6 +56,7 @@
     <setting file="file://$PROJECT_DIR$/Features/Home/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Features/Agents/AgentController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Features/Agents/EventHandlers/AgentRebooted/UpdateLogs.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Features/_ViewStart.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Features/Inhabitants/Search.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Infrastructure/FindRContext.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Domain/Inhabitant.cs" root0="FORCE_HIGHLIGHTING" />
@@ -236,26 +116,6 @@
       <pane id="AssemblyExplorer" />
       <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
-        <subPane>
-          <expand>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="Slices" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="Slices" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="NeoFindR.Specs" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="Slices" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="NeoFindR.Specs" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Inhabitants" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
         <option name="show-all-files" value="false" />
       </pane>
     </panes>
@@ -333,7 +193,7 @@
       <updated>1570564382215</updated>
       <workItem from="1570564383425" duration="6331000" />
       <workItem from="1570699526994" duration="3142000" />
-      <workItem from="1570706070442" duration="5360000" />
+      <workItem from="1570706070442" duration="5509000" />
     </task>
     <task id="LOCAL-00001" summary="Big ol' refactor">
       <created>1570722291145</created>
@@ -346,7 +206,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14833000" />
+    <option name="totallyTimeSpent" value="14982000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -359,9 +219,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.35695258" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35695258" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -789,18 +648,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Features/Agents/View.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding>
-            <marker date="1570721891655" expanded="true" signature="47:110" ph="@..." />
-            <marker date="1570721891655" expanded="true" signature="309:512" ph="@..." />
-            <marker date="1570721891655" expanded="true" signature="346:512" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../NeoFindR.Specs/Inhabitants/Destroy.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
@@ -810,6 +657,27 @@
             <marker date="1570706953093" expanded="true" signature="140:726" ph="{...}" />
             <marker date="1570706953093" expanded="true" signature="208:724" ph="{...}" />
             <marker date="1570706953093" expanded="true" signature="288:718" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Features/_ViewStart.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1556271027061" expanded="true" signature="0:28" ph="@..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Features/Agents/View.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+          <folding>
+            <marker date="1570721891655" expanded="true" signature="47:110" ph="@..." />
+            <marker date="1570721891655" expanded="true" signature="309:512" ph="@..." />
+            <marker date="1570721891655" expanded="true" signature="346:512" ph="{...}" />
           </folding>
         </state>
       </provider>
