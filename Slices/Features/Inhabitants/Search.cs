@@ -26,6 +26,7 @@ namespace NeoFindR.Features.Inhabitants
                 public string LastName { get; set; }
                 public DateTime LastSlept { get; set; }
                 public string ThreatLevel { get; set; }
+                public Guid Id { get; set; }
             }
         }
 
@@ -55,7 +56,8 @@ namespace NeoFindR.Features.Inhabitants
                         FirstName = result.FirstName,
                         LastName = result.LastName,
                         LastSlept = result.LastSlept,
-                        ThreatLevel = result.CurrentThreatLevel
+                        ThreatLevel = result.CurrentThreatLevel,
+                        Id = result.Id
                     }).ToList()
                 };
             }

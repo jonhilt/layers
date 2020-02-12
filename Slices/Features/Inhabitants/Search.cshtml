@@ -21,6 +21,7 @@
         <th>Last Name</th>
         <th>Last Slept</th>
         <th>Threat Level</th>
+        <th>Actions</th>
     </tr>
     </thead>
     <tbody>
@@ -31,6 +32,12 @@
             <td>@person.LastName</td>
             <td>@person.LastSlept</td>
             <td>@person.ThreatLevel</td>
+            <td>
+                <form asp-action="Destroy" method="post">
+                    <input type="hidden" name="Id" value="@person.Id"/>
+                    <button class="btn btn-outline-light">Destroy</button>
+                </form>
+            </td>
         </tr>
     }
     </tbody>

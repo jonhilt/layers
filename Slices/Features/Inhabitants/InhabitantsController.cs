@@ -22,11 +22,11 @@ namespace NeoFindR.Features.Inhabitants
             return View(model);
         }
 
-        [HttpDelete]
+        [HttpPost]
         public async Task<IActionResult> Destroy(Destroy.Command command)
         {
             await _mediator.Send(command);
-            return Ok();
+            return RedirectToAction(nameof(Search));
         }
     }
 }
