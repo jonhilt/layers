@@ -40,11 +40,13 @@ namespace NeoFindR.Features.Inhabitants
 
             public async Task<Model> Handle(Query request, CancellationToken cancellationToken)
             {
-                if (string.IsNullOrEmpty(request.Term))
-                    return new Model();
+                IQueryable<Inhabitant> results;
 
-                var results = _dbContext.Inhabitants.Where(x =>
-                    x.FirstName.Contains(request.Term) || x.LastName.Contains(request.Term));
+                if (string.IsNullOrEmpty(request.Term))
+                    results = _dbContext.Inhabitants.Take(10);
+                else
+                    results = _dbContext.Inhabitants.Where(x =>
+                        x.FirstName.Contains(request.Term) || x.LastName.Contains(request.Term));
 
                 return new Model
                 {

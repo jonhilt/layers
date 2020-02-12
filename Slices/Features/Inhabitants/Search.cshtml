@@ -1,34 +1,37 @@
- @model NeoFindR.Features.Inhabitants.Search.Model
- 
- @{ 
-     ViewBag.Title = "title"; 
-     Layout = "_Layout"; 
- } 
+@model NeoFindR.Features.Inhabitants.Search.Model
 
- <form asp-action="Search" method="get">
-     Search: <input type="text" name="Term" />
-     <input type="submit" value="Search"/>
- </form>
+@{
+    ViewBag.Title = "title";
+    Layout = "_Layout";
+}
+
+<form asp-action="Search" method="get" class="form-inline">
+    <div class="form-group mb-2">
+        <label for="Term" class="sr-only">Search</label>
+        <input type="text" name="Term" class="form-control mr-2"/>
+    </div>
+    <button type="submit" class="btn btn-outline-light mb-2">Search</button>
+</form>
 
 
- <table class="table table-striped">
-     <thead> 
-     <tr> 
-         <th>First Name</th> 
-         <th>Last Name</th> 
-         <th>Last Slept</th> 
-         <th>Threat Level</th>
-     </tr> 
-     </thead>
-     <tbody> 
-     @foreach (var person in Model.Results) 
-     { 
-         <tr> 
-             <td>@person.FirstName</td> 
-             <td>@person.LastName</td> 
-             <td>@person.LastSlept</td> 
-             <td>@person.ThreatLevel</td> 
-         </tr> 
-     } 
-     </tbody>
- </table>
+<table class="table table-striped">
+    <thead>
+    <tr>
+        <th>First Name</th>
+        <th>Last Name</th>
+        <th>Last Slept</th>
+        <th>Threat Level</th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var person in Model.Results)
+    {
+        <tr>
+            <td>@person.FirstName</td>
+            <td>@person.LastName</td>
+            <td>@person.LastSlept</td>
+            <td>@person.ThreatLevel</td>
+        </tr>
+    }
+    </tbody>
+</table>
