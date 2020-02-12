@@ -31,7 +31,7 @@ namespace NeoFindR.Features.Inhabitants
 
         public class QueryHandler : IRequestHandler<Query, Model>
         {
-            private FindRContext _dbContext;
+            private readonly FindRContext _dbContext;
 
             public QueryHandler(FindRContext dbContext)
             {

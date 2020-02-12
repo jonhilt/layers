@@ -1,9 +1,15 @@
- @model NeoFindR.Features.Inhabitants.ListAll.Model
+ @model NeoFindR.Features.Inhabitants.Search.Model
  
  @{ 
      ViewBag.Title = "title"; 
      Layout = "_Layout"; 
  } 
+
+ <form asp-action="Search" method="get">
+     Search: <input type="text" name="Term" />
+     <input type="submit" value="Search"/>
+ </form>
+
 
  <table class="table table-striped">
      <thead> 
@@ -15,7 +21,7 @@
      </tr> 
      </thead>
      <tbody> 
-     @foreach (var person in Model.Inhabitants) 
+     @foreach (var person in Model.Results) 
      { 
          <tr> 
              <td>@person.FirstName</td> 

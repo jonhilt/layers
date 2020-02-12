@@ -6,27 +6,20 @@ using Microsoft.EntityFrameworkCore;
 
 namespace NeoFindR.Features.Inhabitants
 {
-    public class PersonController : Controller
+    public class InhabitantController : Controller
     {
         private readonly IMediator _mediator;
 
-        public PersonController(IMediator mediator)
+        public InhabitantController(IMediator mediator)
         {
             _mediator = mediator;
         }
 
         [HttpGet]
-        public async Task<IActionResult> List()
-        {
-            var model = await _mediator.Send(new ListAll.Query());
-            return View(model);
-        }
-
-        [HttpGet]
         public async Task<IActionResult> Search(Search.Query query)
         {
-            var results = await _mediator.Send(query);
-            return View(results);
+            var model = await _mediator.Send(query);
+            return View(model);
         }
 
         [HttpDelete]
